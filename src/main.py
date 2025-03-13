@@ -8,4 +8,4 @@ app.include_router(api_router)
 
 @app.get("/")
 def read_root():
-    return {"message": "Welcome to the Science Space F1 application!"}
+    return {"message": "Welcome to the Speed Science F1 application!"}

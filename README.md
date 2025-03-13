@@ -1,6 +1,6 @@
 # Speed Science F1 Application
 
-This project is a FastAPI application that utilizes the FastF1 library to query Formula 1 data and provides an endpoint for calculating the the lap speed based on Interquartile Range (IQR) metric for a list of drivers for a specified Grand Prix.
+This project is a FastAPI application that utilizes the FastF1 library to query Formula 1 data and provides an endpoint for calculating the lap speed based on Interquartile Range (IQR) metric for a list of drivers for a specified Grand Prix.
 
 ## Project Structure
 
